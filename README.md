@@ -5,6 +5,9 @@
 
 ---
 
+## Demo
+View Live : https://curamed-nine.vercel.app/[https://curamed-nine.vercel.app/]
+
 ## 🌟 Key Capabilities
 
 1. **Deterministic ML Disease Risk Prediction**:
