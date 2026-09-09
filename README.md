@@ -6,7 +6,7 @@
 ---
 
 ## Demo
-View Live : https://curamed-nine.vercel.app/[https://curamed-nine.vercel.app/
+View Live : https://curamed-nine.vercel.app/[https://curamed-nine.vercel.app/]
 
 ## 🌟 Key Capabilities
 
