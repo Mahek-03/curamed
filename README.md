@@ -8,7 +8,7 @@
 ## Demo
 View Live : https://curamed-nine.vercel.app/
 
-## 🌟 Key Capabilities
+##  Key Capabilities
 
 1. **Deterministic ML Disease Risk Prediction**:
    - Evaluates 8 key physiological biomarkers (Plasma Glucose, BMI, Age, Diastolic BP, Insulin, Skinfold Thickness, Pregnancies, Pedigree Function) on the canonical **Pima Indians Diabetes Dataset**.
